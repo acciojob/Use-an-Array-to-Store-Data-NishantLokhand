@@ -23,7 +23,7 @@ let complexArray = [
       d: "d"
     },
 	  {
-      e: "e",
+      true,
       f: "f"
     }
   ]
